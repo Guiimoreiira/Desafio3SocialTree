@@ -1,0 +1,19 @@
+COMENTÁRIOS:
+
+HTML:
+> Foi colocado Links para o google fonts, e Favicon.
+> necessario colocar scripts para ter acesso aos icones (site ionicons) 
+> Todo conteudo foi centralizado no main
+> O projeto contem 3 Div's prinpais, uma pra imagem, para os conteudos, e footer.
+> Os links foram separados por div's para uma melhor personalizacao individual.
+> Icons, foram adicionados links "a" junto com a importação via script. (descobrir como aumenta o tamanho) 
+> Por serem a, são display block, por isso é possivel ficarem lado a lado.
+
+
+CSS:
+> Dados alguns comandos principais no body, para já personalizar tudo.
+> Foi necessario aplicar borda na imagem, junto com o padding para dar o efeito
+> a imagem foi alinhada com margin auto (ao centro) devido estar dentro de uma DIV.
+
+
+

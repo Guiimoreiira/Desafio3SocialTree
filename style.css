@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #BB99DD;
+  text-align: center;
+  font-size: 16px;
+  
+}
+
+main, #container {
+  width: 326px;
+  margin: auto;
+}
+
+.perfil {
+  margin: 80px auto 20px;
+}
+
+.perfil img {
+  border: #BB99DD solid 2px;
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.perfil p {
+  margin: 20px auto 20px;
+}
+
+#caixa-links, a {
+  color: #BB99DD;
+  text-decoration: none;
+}
+
+.link1, .link2, .link3, .link4 {
+  font-weight: 600;
+  border: #BB99DD solid 2px;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+}
+
+#footer, ion-icon {
+  padding: 10px;
+}
+
+
+/* fonts
+font-family: 'Poppins', sans-serif;
+*/
